@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shamim Hossain</h1>
-<p align="center">A dedicated Computer Programming student at Seneca College in Canada with a strong foundation in web development and a passion for emerging technologies such as AI and Blockchain. His future goal is to become a software developer, where he can leverage his technical skills and continuously evolving knowledge in these innovative fields. Shamim is committed to staying current with industry trends and thrives in collaborative environments, working with diverse teams to create impactful and efficient solutions. He is actively seeking opportunities to apply his expertise in real-world projects and is open to discussing potential collaborations or opportunities in AI and Blockchain.</p>
 
 # 💫 About Me:
 🚀 Passionate about programming, problem-solving, and building scalable applications. Currently a student at Seneca College, Toronto, pursuing an Advanced Diploma in Computer Programming and Analysis.<br><br>💡 Actively learning Web Development while sharpening my DSA skills on HackerRank & LeetCode. Check out my GitHub repositories for my latest projects and coding solutions!
