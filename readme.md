@@ -15,7 +15,6 @@
 
 <br/>
 
----
 
 <br/>
 
@@ -34,7 +33,8 @@
 <br/>
 
 ## 💻 Tech Stack
-
+<div align="center">
+  
 ### **Programming & Development**
 
 <br/>
@@ -72,7 +72,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
 
 <br/>
-
+</div>
 
 ## 📊 GitHub Stats
 
