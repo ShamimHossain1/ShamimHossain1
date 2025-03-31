@@ -89,12 +89,4 @@
 
 
 
-## 🗂 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ShamimHossain1&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
-</p>
-
-
-
 
