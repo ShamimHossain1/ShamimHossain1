@@ -79,11 +79,11 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShamimHossain1&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="Shamim's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamimHossain1&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamimHossain1&theme=radical&hide_border=true&include_all_commits=ture&count_private=true&layout=compact" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamimHossain1&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ShamimHossain1&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
